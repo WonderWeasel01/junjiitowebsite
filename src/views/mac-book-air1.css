@@ -1,0 +1,2074 @@
+.mac-book-air1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-air1-mac-book-air1 {
+  width: 100%;
+  height: 12054px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(61, 67, 75, 1);
+}
+.mac-book-air1-image1 {
+  top: 221px;
+  left: 441px;
+  width: 398px;
+  height: 76px;
+  position: absolute;
+}
+.mac-book-air1-frame1 {
+  top: 357px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text002 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image2 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle2 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text004 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text006 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame2 {
+  top: 790px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background01 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text008 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text010 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image201 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle201 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text012 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text014 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame3 {
+  top: 1223px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background02 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text016 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text018 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image202 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle202 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text020 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text022 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame21 {
+  top: 1656px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background03 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text024 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text026 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image203 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle203 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text028 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text030 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame4 {
+  top: 2089px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background04 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text032 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text034 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image204 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle204 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text036 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text038 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame5 {
+  top: 2522px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background05 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text040 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text042 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image205 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle205 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text044 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text046 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame401 {
+  top: 2955px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background06 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text048 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text050 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image206 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle206 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text052 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text054 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame402 {
+  top: 3388px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background07 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text056 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text058 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image207 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle207 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text060 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text062 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame403 {
+  top: 3821px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background08 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text064 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text066 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image208 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle208 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text068 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text070 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame404 {
+  top: 4254px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background09 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text072 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text074 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image209 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle209 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text076 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text078 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame405 {
+  top: 4687px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background10 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text080 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text082 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image210 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle210 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text084 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text086 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame406 {
+  top: 5120px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background11 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text088 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text090 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image211 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle211 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text092 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text094 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame407 {
+  top: 5553px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background12 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text096 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text098 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image212 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle212 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text100 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text102 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame6 {
+  top: 5986px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background13 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text104 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text106 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image213 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle213 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text108 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text110 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame8 {
+  top: 6419px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background14 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text112 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text114 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image214 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle214 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text116 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text118 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame61 {
+  top: 6852px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background15 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text120 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text122 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image215 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle215 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text124 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text126 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame408 {
+  top: 7285px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background16 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text128 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text130 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image216 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle216 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text132 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text134 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame409 {
+  top: 7718px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background17 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text136 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text138 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image217 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle217 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text140 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text142 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame410 {
+  top: 8584px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background18 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text144 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text146 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image218 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle218 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text148 {
+  top: 365px;
+  left: 1020px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text150 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame411 {
+  top: 8151px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background19 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text152 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text154 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image219 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle219 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text156 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text158 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-frame7 {
+  top: 9017px;
+  left: 22px;
+  width: 1236px;
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-background20 {
+  top: 0px;
+  left: 2px;
+  width: 1234px;
+  height: 399px;
+  position: absolute;
+  border-radius: 10px;
+}
+.mac-book-air1-text160 {
+  top: 109px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text162 {
+  top: 11px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-image220 {
+  top: 20px;
+  left: 972px;
+  width: 243px;
+  height: 341px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mac-book-air1-rectangle220 {
+  top: 361px;
+  left: 2px;
+  width: 1234px;
+  height: 38px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.mac-book-air1-text164 {
+  top: 365px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text166 {
+  top: 368px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Paralucent;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-header {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 184px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mac-book-air1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 185px;
+  position: absolute;
+}
+.mac-book-air1-text168 {
+  top: 50px;
+  left: 417px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shlop;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
